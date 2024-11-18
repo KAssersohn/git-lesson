@@ -8,3 +8,4 @@ This is my to do list for 18/11/2024
 - Get lunch
 - Other work and whatnot
 - Have a nap
+- Make some dinner
